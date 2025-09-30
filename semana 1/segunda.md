@@ -1,4 +1,4 @@
-Resumo da vídeo aula "Security Controls - CompTIA Security+ SY0-701 - 1.1"
+Resumo da vídeo aula "Security Controls - CompTIA Security+ SY0-701 - 1.1" 
 O principal objetivo dos controles de segurança é **prevenir** eventos de segurança, **minimizar** o impacto dos eventos que ocorrem e **limitar** os danos.
 
 ---
@@ -7,13 +7,13 @@ O principal objetivo dos controles de segurança é **prevenir** eventos de segu
 
 A aula divide os controles de segurança em quatro categorias principais:
 
-1.  **Técnicos (Technical):** Implementados com tecnologia.
+1.  **Técnicos (Technical):** Implementados com **tecnologia**.
     * *Exemplos:* Firewalls, antivírus, sistemas de detecção de intrusão (IDS).
-2.  **Gerenciais (Managerial):** Controles administrativos, geralmente documentos ou processos de alto nível.
+2.  **Gerenciais (Managerial):** Controles administrativos, geralmente documentos ou **processos**.
     * *Exemplos:* Políticas de segurança, procedimentos operacionais padrão (SOPs), avaliação de riscos e *due diligence*.
-3.  **Operacionais (Operational):** Controles executados por pessoas como parte de suas operações diárias.
+3.  **Operacionais (Operational):** Controles executados por **pessoas** como parte de suas operações diárias.
     * *Exemplos:* Treinamento de conscientização de segurança, guardas de segurança, patrulhas de propriedade.
-4.  **Físicos (Physical):** Controles que limitam o acesso ao ambiente físico.
+4.  **Físicos (Physical):** Controles que limitam o acesso ao **ambiente físico**.
     * *Exemplos:* Fechaduras, cercas, leitores de crachás, geradores de energia.
 
 ---
@@ -37,6 +37,18 @@ A aula detalha seis tipos de controles, baseados em sua função:
 
 **Ponto Chave:** O vídeo enfatiza que muitos controles se enquadram em **múltiplas categorias e tipos**. Por exemplo, um guarda de segurança é um controle **Operacional** (pessoa) e **Preventivo** (bloqueia o acesso).
 
+Essa visão geral é crucial para entender como uma organização constrói sua defesa em profundidade (*Defense in Depth*) usando uma mistura de controles.
 ---
 
-Essa visão geral é crucial para entender como uma organização constrói sua defesa em profundidade (*Defense in Depth*) usando uma mistura de controles.
+## Matriz de Controles de Segurança (Categorias vs. Tipos)
+
+| Tipo de Controle (Como Funciona) | Técnico (Tecnologia) | Gerencial (Administrativo) | Operacional (Pessoas/Processos) | Físico (Ambiente) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Preventivo** (Impede) | Regra de **Firewall** | **Política** de Integração (Onboarding) | **Guarita** (Verificação de ID) | **Trancas**/Fechaduras |
+| **Dissuasor** (Desencoraja) | Tela de *Splash* de Aplicativo | Ameaça de **Punição**/Demissão | **Recepcionista** (Check-in) | **Sinais** de Aviso |
+| **Detetive** (Identifica) | **Logs** de Sistema | Revisão de **Relatórios** de Login | **Patrulha** da Propriedade | **Detector** de Movimento |
+| **Corretivo** (Reverte Dano) | **Restauração** de Backup | **Política** de Relatório de Incidentes | Contato com **Autoridades** | **Extintor** de Incêndio |
+| **Compensatório** (Alternativo) | Bloquear App em vez de **Corrigir** (*Patch*) | **Separação** de Funções | **Segurança** Simultânea (vários Guardas) | **Gerador** de Energia |
+| **Diretivo** (Orienta) | **Política** de Armazenamento de Arquivos | **Política** de *Compliance* | **Treinamento** de Política de Segurança | Placa: **"Acesso Restrito"** |
+
+***Observação Importante:** Como o vídeo explica, esta matriz usa apenas um exemplo para cada célula. Muitos controles de segurança podem se encaixar em diferentes categorias e tipos simultaneamente.*
