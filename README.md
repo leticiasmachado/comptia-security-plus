@@ -1,2 +1,2 @@
-# comptia-security-
+# comptia security+
 Estudando pra comptia security+
