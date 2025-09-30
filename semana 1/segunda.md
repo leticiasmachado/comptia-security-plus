@@ -37,7 +37,6 @@ A aula detalha seis tipos de controles, baseados em sua função:
 
 **Ponto Chave:** O vídeo enfatiza que muitos controles se enquadram em **múltiplas categorias e tipos**. Por exemplo, um guarda de segurança é um controle **Operacional** (pessoa) e **Preventivo** (bloqueia o acesso).
 
-Essa visão geral é crucial para entender como uma organização constrói sua defesa em profundidade (*Defense in Depth*) usando uma mistura de controles.
 ---
 
 ## Matriz de Controles de Segurança (Categorias vs. Tipos)
