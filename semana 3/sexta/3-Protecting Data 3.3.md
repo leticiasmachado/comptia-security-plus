@@ -1,4 +1,4 @@
-Resumo do vídeo **a**
+Resumo do vídeo **Protecting Data – CompTIA Security+ SY0-701 – 3.3**
 
 ---
 
@@ -117,4 +117,5 @@ Precisamos aplicar a proteção adequada independentemente de onde os dados este
 * **Definição:** O tipo de proteção de dados que usamos todos os dias, baseada em **autenticação** (quem você é) e **autorização** (o que você pode fazer).
 * **Processo:**
     1.  **Autenticação Segura:** Garantir que o login é seguro (políticas de senha forte, autenticação multifator - MFA).
+
     2.  **Autorização (Permissões):** Uma vez logado, o que você pode acessar? Isso é controlado por permissões de arquivo e associações a grupos, que limitam quais dados aquele usuário específico pode ver ou modificar.
